@@ -2,20 +2,44 @@
 ## Modernisering av Rapporteket
 FMK NIKT HF, Gardermoen 23. april 2018
 <br>
-Are Edvardsen
+_Are Edvardsen_
 <br>
 Presentsjonen er åpen og tilgjengelig [her](https://gitpitch.com/SKDE-Felles/moderniseringRapporteket?p=presSoknadFMK#/)
 
 ---
 
-@title[Del 1]
+@title[Konseptfasen]
 ## Konsept
 - Servicemiljøet, fordelt på 4 regionale helseforetak
 - I alt 10 databehandlingsansvarlige (selvstendige juridiske enheter) for de 54 nasjonale kvalitetsregistrene
 
 +++
 
-### Under
+### Status
+- Eneste fungerende resultattjeneste på mikrodata
+- Benyttes av mange nasjonale registre
+- Ingen "oppgradering" siden etablering 2011
+- "Tungrodd" teknisk drift
+- Tett kobling mellom teknisk drift og produksjon av innhold
+
++++
+
+### Behov
+- Forenkling av teknisk drift
+- Forenkling av innholdsproduksjon
+- Klarere rollefordeling (innhold vs drift)
+- Generell modernisering
+
++++
+
+### Valg av konsept
+- Innhold: rendyrking av primært verktøy R
+- Teknisk drift: fjerne avhengigheter og vanskelig konfigurasjon
+- Etablere av delt forvaltning: teknologi og innhold
+
++++
+
+### Gevinster
 
 ---
 @title[Del 2]
