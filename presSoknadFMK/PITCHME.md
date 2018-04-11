@@ -1,4 +1,5 @@
-### Modernisering av Rapporteket: presentasjon av søknad
+@title[Intro]
+## Modernisering av Rapporteket: presentasjon av søknad
 FMK NIKT HF, Gardermoen 23. april 2018
 <br>
 Are Edvardsen
@@ -7,12 +8,17 @@ Presentsjonen er åpen og tilgjengelig [her](https://gitpitch.com/SKDE-Felles/mo
 
 ---
 
-### Konsept
+@title[Del 1]
+## Konsept
 - Servicemiljøet, fordelt på 4 regionale helseforetak
 - I alt 10 databehandlingsansvarlige (selvstendige juridiske enheter) for de 54 nasjonale kvalitetsregistrene
 
----
++++
 
+### Under
+
+---
+@title[Del 2]
 ### Sammenheng/tidslinje
 - (interregional styringsgruppe)
 - AD-møtet
@@ -21,8 +27,12 @@ Presentsjonen er åpen og tilgjengelig [her](https://gitpitch.com/SKDE-Felles/mo
 @fa[arrow-right]
 <mark>I praksis adskilte styringslinjer, utførelse på nasjonalt nivå bare mulig gjennom konsensus</mark>
 
----
++++
 
+### Under
+
+---
+@title[Del 3]
 ### Økonomi
 <span style="font-size:0.6em;">
 - Hvert register skal potensielt kunne fange data fra EPJ i alle helseforetak
@@ -37,6 +47,11 @@ Må benytte samme metodikk og alle helseforetak må håndtere datautveksling lik
 Krever nasjonal styring av regionale oppsett av EPJ
 </mark>
 </span>
+
++++
+
+### Under
+
 ---
 
 ### Generelle forutsetninger for automastisk datafangst: utfordringer
