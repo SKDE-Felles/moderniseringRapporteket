@@ -1,5 +1,4 @@
-background-size : auto 50%
-background-color : #74992e;
+#background-size : auto 50%
 #background-color : #d9eeee;
 logo : presSoknadFMK/logo_nsmk.png
 #theme-override : presSoknadFMK/nsmk.css

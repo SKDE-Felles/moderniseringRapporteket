@@ -1,5 +1,5 @@
 @title[Intro]
-## Modernisering av Rapporteket: presentasjon av søknad
+## Modernisering av Rapporteket
 FMK NIKT HF, Gardermoen 23. april 2018
 <br>
 Are Edvardsen
