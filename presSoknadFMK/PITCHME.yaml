@@ -1,4 +1,4 @@
-background-color : #d9eeee;
+background-color : "#d9eeee";
 background-size : auto 80%
 logo : presSoknadFMK/logo_nsmk.png
 theme-override : presSoknadFMK/nsmk.css
