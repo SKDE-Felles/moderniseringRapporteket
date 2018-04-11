@@ -1,0 +1,5 @@
+background-color : #d9eeee;
+background-size : auto 80%
+logo : skde/automatisert_datafangst/logo_nsmk.png
+theme-override : presSoknadFMK/nsmk.css
+highlight : mono-blue
