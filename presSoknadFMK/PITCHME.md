@@ -111,7 +111,5 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 
 ---
 @title[Bakside]
-## Ferdig
-@fa[flag-ceckered]
-<i class="fas fa-flag-checkered"></i>
-@fa[coffee fa-rhf]
+
+@fa[coffee fa-3x fa-rhf]
