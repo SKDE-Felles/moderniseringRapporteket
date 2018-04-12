@@ -93,7 +93,7 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 +++
 
 ### Følgekostnader drift
-Gjennomføring av prosjeket vil IKKE gi økte kostnader for teknisk drift:
+<em>Gjennomføring av prosjeket vil IKKE gi økte kostnader for teknisk drift:</em>
 - gjeldende kostnadsmodell forblir uendret
 - årlig kostnad for teknisk drift av Rapporteket vil være ca. kr 70.000 per register uavhengig om drift skjer hos HNIKT eller NHN
 - lisenskostnad for Shiny Server Pro er litt lavere enn for Jasper Server Pro
