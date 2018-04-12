@@ -139,4 +139,4 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 ---
 @title[Bakside]
 
-@fa[coffee fa-7x fa-rhf]
+@fa[coffee fa-5x fa-rhf]
