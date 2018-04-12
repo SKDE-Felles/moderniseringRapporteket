@@ -4,7 +4,7 @@ FMK NIKT HF, Gardermoen 23. april 2018
 <br>
 _Are Edvardsen_
 <br>
-<span style="font-size:0.2em;">Presentasjonen er åpen og tilgjengelig [her](https://gitpitch.com/SKDE-Felles/moderniseringRapporteket?p=presSoknadFMK#/)</span>
+<span style="font-size:0.4em;">Presentasjonen er åpen og tilgjengelig [her](https://gitpitch.com/SKDE-Felles/moderniseringRapporteket?p=presSoknadFMK#/)</span>
 
 ---
 
@@ -12,6 +12,7 @@ _Are Edvardsen_
 ## Konsept
 - Servicemiljøet, fordelt på 4 regionale helseforetak
 - I alt 10 databehandlingsansvarlige (selvstendige juridiske enheter) for de 54 nasjonale kvalitetsregistrene
+@fa[lightbulb fa-rhf]
 
 +++
 
@@ -36,6 +37,7 @@ _Are Edvardsen_
 - Innhold: rendyrking av det primære verktøyet __R__
 - Teknisk drift: fjerne avhengigheter og vanskelig konfigurasjon
 - Etablere delt forvaltning: teknologi og innhold
+@fa[compass fa-3x fa-rhf]
 
 +++
 
@@ -45,11 +47,14 @@ _Are Edvardsen_
 - Enklere for statistikere å etablere og vedlikehold innhold
 - Større fleksibilitet i hva som kan lages av innhold
 - Modernisering av teknologi og metodikk gir resultattjenesten forelenget levetid 
+@fa[trophy fa-3x fa-rhf]
 
 ---
+
 @title[Kontekst]
 ## Historikk og framtid
 Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å videreføre og forbedre __Rapporteket__ som resultattjeneste for de nasjonale medisinske kvalitetsregistrene
+@fa[history fa-3x fa-rhf]
 
 +++
 
@@ -70,8 +75,10 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 |:---|:---|
 |2018|Modernisering av Rapporteket|
 |2019|Flytting av driftsansvar til NHN|
+@fa[road fa-3x fa-rhf]
 
 ---
+
 @title[Kostnader]
 ## Oversikt prosjektkostnader
 |Kilde|Beløp|
