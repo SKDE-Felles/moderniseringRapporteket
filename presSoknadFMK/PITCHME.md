@@ -10,11 +10,11 @@ _Are Edvardsen_
 
 @title[Konseptfasen]
 ## Konsept
-- Servicemiljøet, fordelt på 4 regionale helseforetak
-- I alt 10 databehandlingsansvarlige (selvstendige juridiske enheter) for de 54 nasjonale kvalitetsregistrene
+- Rapporteket konseptuelt uendret siden etablering
+- Nye og endrede krav (_e.g._ flytting, funksjonalitet)
+- Fortløpende behov for endring av teknologi og metodikk
 
 <br>
-
 @fa[rocket fa-3x fa-rhf]
 
 +++
