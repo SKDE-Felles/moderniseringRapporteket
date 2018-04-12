@@ -73,13 +73,13 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 
 ---
 @title[Kostnader]
-## Oversikt
+## Oversikt prosjektkostnader
 |Kilde|Beløp|
 |:---|---:|
-|FMK||
-|Egenfinansiering Servicemiljøet||
+|FMK|454 580|
+|Egenfinansiering Servicemiljøet|794 910|
 |||
-|Sum||
+|Sum|1 249 490|
 
 +++
 
@@ -94,50 +94,9 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 
 ### Følgekostnader drift
 Gjennomføring av prosjeket vil IKKE gi økte kostnader for teknisk drift:
-- eksisterende og vedtatt kostnadsmodell forblir uendret
-- omtrentlig årlig kostnad for teknisk drift av Rapporteket vil være kr 70.000 per register uavhengig om drift skjer hos HNIKT eller NHN
+- gjeldende kostnadsmodell forblir uendret
+- årlig kostnad for teknisk drift av Rapporteket vil være ca. kr 70.000 per register uavhengig om drift skjer hos HNIKT eller NHN
 - lisenskostnad for Shiny Server Pro er litt lavere enn for Jasper Server Pro
-- forenklet teknisk drift vil gi et lavere arbeidsomfang
+- forenklet teknisk drift vil gi redusert arbeidsomfang
 
 ---
-
-### Generelle forutsetninger for automastisk datafangst: utfordringer
-
-#### Spørsmål:
-- Hvilke nasjonale aktører (med styringrett) kan/bør koordinere regionenes arbeid med dataflyt fra/til (regionalt konsolidert) EPJ?
-- Hvordan skal en slik koordinering foregå?
-- Hva er tidsperspektiv i dette?
-
----
-
-### Bidrag fra NSMK/SKDE: metadata
-- <span style="font-size:0.9em;">Piloter for metadata fra kvalitetsregister til Eutro/Nestar (HRR)</span>
-- <span style="font-size:0.9em;">Avstemming mot nasjonalt system/portal (*e.g.* HealthTerm)</span>
-- <span style="font-size:0.9em;">(Nødvendig) Berikelse av metadata(felter)</span>
-- <span style="font-size:0.9em;">Bistå implementering for alle kvalitetsregistre</span>
-
-@fa[arrow-right]
-<mark>
-<span style="font-size:0.9em;">Målet er at alle nasjonale kvalitetsregistre fortløpende (automatisert) tilgjengeliggjør egne metadata til alle relevanter mottakere/portaler</span>
-</mark>
-
----
-
-
-### Bidrag fra NSMK/SKDE: harmonisering av variabler
-- <span style="font-size:0.9em;">Gi nasjonal oversikt over variabler i kvalitetsregistrene</span>
-- <span style="font-size:0.9em;">Bidra til samordning mot felles variabeldefinisjoner</span>
-- <span style="font-size:0.9em;">Bidra til å innarbeide felles/standardiserte kodeverk og begreper/terminologier</span>
-- <span style="font-size:0.9em;">Bidra til etablering/bruk av felles informasjonsmodeller som variabler kan "pakkes inn i"</span>
-
-@fa[arrow-right]
-<mark>
-<span style="font-size:0.9em;">Målet er entydig utveksling av informasjon mellom system og mennesker samt automatisert mellom systemer</span>
-</mark>
-
----
-
-### NSMK/SKDE: egen status og vurdering
-- Har fått oppdrag fra IRS angående metadata og harmonisering
-- Pt store begrensninger i kapasitet
-- Oppfatter stor risiko ved at implementering skjer nå (*e.g.* Dips Arena, Helseplattformen) mens fundamentet ikke er på plass (*e.g.* felles standarder)
