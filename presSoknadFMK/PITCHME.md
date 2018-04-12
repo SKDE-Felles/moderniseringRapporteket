@@ -16,6 +16,7 @@ _Are Edvardsen_
 <br>
 
 @fa[lightbulb fas fa-3x fa-rhf]
+<i class="fas fa-lightbulb fa-3x"></i>
 
 +++
 
