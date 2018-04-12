@@ -12,8 +12,10 @@ _Are Edvardsen_
 ## Konsept
 - Servicemiljøet, fordelt på 4 regionale helseforetak
 - I alt 10 databehandlingsansvarlige (selvstendige juridiske enheter) for de 54 nasjonale kvalitetsregistrene
+
 <br>
-@fa[lightbulb fa-rhf]
+
+@fa[lightbulb fas fa-3x fa-rhf]
 
 +++
 
@@ -38,7 +40,9 @@ _Are Edvardsen_
 - Innhold: rendyrking av det primære verktøyet __R__
 - Teknisk drift: fjerne avhengigheter og vanskelig konfigurasjon
 - Etablere delt forvaltning: teknologi og innhold
+
 <br>
+
 @fa[compass fa-3x fa-rhf]
 
 +++
@@ -49,7 +53,9 @@ _Are Edvardsen_
 - Enklere for statistikere å etablere og vedlikehold innhold
 - Større fleksibilitet i hva som kan lages av innhold
 - Modernisering av teknologi og metodikk gir resultattjenesten forelenget levetid
+
 <br>
+
 @fa[trophy fa-3x fa-rhf]
 
 ---
@@ -57,7 +63,9 @@ _Are Edvardsen_
 @title[Kontekst]
 ## Historikk og framtid
 Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å videreføre og forbedre __Rapporteket__ som resultattjeneste for de nasjonale medisinske kvalitetsregistrene
+
 <br>
+
 @fa[history fa-3x fa-rhf]
 
 +++
