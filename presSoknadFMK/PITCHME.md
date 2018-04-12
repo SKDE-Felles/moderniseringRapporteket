@@ -113,3 +113,4 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 @title[Bakside]
 ## Ferdig
 @fa[flag-ceckered]
+@fa[arrow-right]
