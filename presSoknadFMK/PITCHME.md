@@ -55,8 +55,8 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 
 ### Historie
 |År|Hendelse|
-|---:|:|
-|2009|Første prototype Jasper Report Server CE og R|
+|:---|:---|
+|2009|Prototype Jasper Report Server CE og R|
 |2011|Jasper Report Server Pro|
 |2015|Registre som R-pakker og delt kode på GitHub|
 |2015|Utredning og vedtak om flytting til NHN|
@@ -67,30 +67,37 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 
 ### Framtid
 |År|Hendelse|
-|:|:|
+|:---|:---|
 |2018|Modernisering av Rapporteket|
-|2019|Flytting av driftsasvar til NHN|
+|2019|Flytting av driftsansvar til NHN|
 
 ---
 @title[Kostnader]
-## Økonomi
-<span style="font-size:0.6em;">
-- Hvert register skal potensielt kunne fange data fra EPJ i alle helseforetak
-@fa[arrow-right]
-<mark>
-Må benytte samme metodikk og alle helseforetak må håndtere datautveksling likt
-</mark>
-<br>
-- Behov for koordinering og styring av måten EPJ-ene samhandler med andre systemer
-@fa[arrow-right]
-<mark>
-Krever nasjonal styring av regionale oppsett av EPJ
-</mark>
-</span>
+## Oversikt
+|Kilde|Beløp|
+|:---|---:|
+|FMK||
+|Egenfinansiering Servicemiljøet||
+|||
+|Sum||
 
 +++
 
-### Under
+### Aktiviet finansiert av FMK
+- Design og dokumentasjon
+- Reise og hospitering KRG
+- Lisens Shiny Server Pro i etableringsfasen
+- Intallasjon og konfigurasjon
+- Testing
+
++++
+
+### Følgekostnader drift
+Gjennomføring av prosjeket vil IKKE gi økte kostnader for teknisk drift:
+- eksisterende og vedtatt kostnadsmodell forblir uendret
+- omtrentlig årlig kostnad for teknisk drift av Rapporteket vil være kr 70.000 per register uavhengig om drift skjer hos HNIKT eller NHN
+- lisenskostnad for Shiny Server Pro er litt lavere enn for Jasper Server Pro
+- forenklet teknisk drift vil gi et lavere arbeidsomfang
 
 ---
 
