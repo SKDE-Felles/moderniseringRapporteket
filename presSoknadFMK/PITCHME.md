@@ -110,7 +110,7 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 
 +++
 
-### Aktiviet finansiert av FMK
+### Aktivitet finansiert av FMK
 - Design og dokumentasjon
 - Reise og hospitering KRG
 - Lisens Shiny Server Pro i etableringsfasen
@@ -139,4 +139,4 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 ---
 @title[Bakside]
 
-@fa[coffee fa-3x fa-rhf]
+@fa[coffee fa-10x fa-rhf]
