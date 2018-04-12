@@ -4,7 +4,7 @@ FMK NIKT HF, Gardermoen 23. april 2018
 <br>
 _Are Edvardsen_
 <br>
-Presentasjonen er åpen og tilgjengelig [her](https://gitpitch.com/SKDE-Felles/moderniseringRapporteket?p=presSoknadFMK#/)
+<span style="font-size:0.2em;">Presentasjonen er åpen og tilgjengelig [her](https://gitpitch.com/SKDE-Felles/moderniseringRapporteket?p=presSoknadFMK#/)</span>
 
 ---
 
