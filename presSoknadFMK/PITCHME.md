@@ -100,3 +100,4 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 - forenklet teknisk drift vil gi redusert arbeidsomfang
 
 ---
+@fa[flag-ceckered]
