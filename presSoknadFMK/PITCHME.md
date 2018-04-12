@@ -15,8 +15,7 @@ _Are Edvardsen_
 
 <br>
 
-@fa[lightbulb fas fa-3x fa-rhf]
-<i class="fas fa-lightbulb fa-3x"></i>
+@fa[rocket fa-3x fa-rhf]
 
 +++
 
@@ -27,6 +26,10 @@ _Are Edvardsen_
 - "Tungrodd" teknisk drift
 - Tett kobling mellom teknisk drift og produksjon av innhold
 
+<br>
+
+@fa[battery-half fa-3x fa-rhf]
+
 +++
 
 ### Behov
@@ -35,6 +38,9 @@ _Are Edvardsen_
 - Klarere rollefordeling (innhold vs drift)
 - Fornying av teknologi
 
+<br>
+
+@fa[wheelchair fa-3x fa-rhf]
 +++
 
 ### Valg av konsept
