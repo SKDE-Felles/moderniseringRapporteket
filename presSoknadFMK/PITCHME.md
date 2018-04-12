@@ -1,10 +1,10 @@
-@title[Intro]
-## Modernisering av Rapporteket
+
+# Modernisering av Rapporteket
 FMK NIKT HF, Gardermoen 23. april 2018
 <br>
 _Are Edvardsen_
 <br>
-Presentsjonen er åpen og tilgjengelig [her](https://gitpitch.com/SKDE-Felles/moderniseringRapporteket?p=presSoknadFMK#/)
+Presentasjonen er åpen og tilgjengelig [her](https://gitpitch.com/SKDE-Felles/moderniseringRapporteket?p=presSoknadFMK#/)
 
 ---
 
@@ -18,7 +18,7 @@ Presentsjonen er åpen og tilgjengelig [her](https://gitpitch.com/SKDE-Felles/mo
 ### Status
 - Eneste fungerende resultattjeneste på mikrodata
 - Benyttes av mange nasjonale registre
-- Ingen "oppgradering" siden etablering 2011
+- Ingen "fornying" siden etablering 2011
 - "Tungrodd" teknisk drift
 - Tett kobling mellom teknisk drift og produksjon av innhold
 
@@ -28,18 +28,23 @@ Presentsjonen er åpen og tilgjengelig [her](https://gitpitch.com/SKDE-Felles/mo
 - Forenkling av teknisk drift
 - Forenkling av innholdsproduksjon
 - Klarere rollefordeling (innhold vs drift)
-- Generell modernisering
+- Fornying av teknologi
 
 +++
 
 ### Valg av konsept
-- Innhold: rendyrking av primært verktøy R
+- Innhold: rendyrking av det primære verktøyet R
 - Teknisk drift: fjerne avhengigheter og vanskelig konfigurasjon
-- Etablere av delt forvaltning: teknologi og innhold
+- Etablere delt forvaltning: teknologi og innhold
 
 +++
 
 ### Gevinster
+- Enklere teknisk drift (oppgradering, konfigurasjon, integrasjon)
+- Flyttbar til annen driftsleverandør og bruk av skytjenester
+- Enklere for statistikere å etablere og vedlikehold innhold
+- Større fleksibilitet i hva som kan lages av innhold
+- Modernisering av teknologi og metodikk gir resultattjenesten forelenget levetid 
 
 ---
 @title[Del 2]
