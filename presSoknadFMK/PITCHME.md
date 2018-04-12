@@ -89,6 +89,16 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 - Lisens Shiny Server Pro i etableringsfasen
 - Intallasjon og konfigurasjon
 - Testing
+- Prosjektledelse
+
++++
+
+### Egenfinansiert aktivitet
+- Migrering rapporter fra Jasper til Shiny
+- Migrering regisre fra R til R-Shiny
+- GUI
+- Brukerhåndtering i Shiny
+- Prosjektledelse
 
 +++
 
@@ -100,4 +110,6 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 - forenklet teknisk drift vil gi redusert arbeidsomfang
 
 ---
+@title[Bakside]
+## Ferdig
 @fa[flag-ceckered]
