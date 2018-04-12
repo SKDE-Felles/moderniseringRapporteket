@@ -1,4 +1,4 @@
-
+@title[Forside]
 # Modernisering av Rapporteket
 FMK NIKT HF, Gardermoen 23. april 2018
 <br>
@@ -33,7 +33,7 @@ Presentasjonen er åpen og tilgjengelig [her](https://gitpitch.com/SKDE-Felles/m
 +++
 
 ### Valg av konsept
-- Innhold: rendyrking av det primære verktøyet R
+- Innhold: rendyrking av det primære verktøyet __R__
 - Teknisk drift: fjerne avhengigheter og vanskelig konfigurasjon
 - Etablere delt forvaltning: teknologi og innhold
 
@@ -47,22 +47,33 @@ Presentasjonen er åpen og tilgjengelig [her](https://gitpitch.com/SKDE-Felles/m
 - Modernisering av teknologi og metodikk gir resultattjenesten forelenget levetid 
 
 ---
-@title[Del 2]
-### Sammenheng/tidslinje
-- (interregional styringsgruppe)
-- AD-møtet
-- direktorat(er)
-
-@fa[arrow-right]
-<mark>I praksis adskilte styringslinjer, utførelse på nasjonalt nivå bare mulig gjennom konsensus</mark>
+@title[Kontekst]
+## Historikk og framtid
+Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å videreføre og forbedre __Rapporteket__ som resultattjeneste for de nasjonale medisinske kvalitetsregistrene
 
 +++
 
-### Under
+### Historie
+|År|Hendelse|
+|---:|:|
+|2009|Første prototype Jasper Report Server CE og R|
+|2011|Jasper Report Server Pro|
+|2015|Registre som R-pakker og delt kode på GitHub|
+|2015|Utredning og vedtak om flytting til NHN|
+|2016|De første OQR-registre flyttes til NHN|
+|2017|Redegjøresler for risiko ved flytting av Rapporteket|
+
++++
+
+### Framtid
+|År|Hendelse|
+|:|:|
+|2018|Modernisering av Rapporteket|
+|2019|Flytting av driftsasvar til NHN|
 
 ---
-@title[Del 3]
-### Økonomi
+@title[Kostnader]
+## Økonomi
 <span style="font-size:0.6em;">
 - Hvert register skal potensielt kunne fange data fra EPJ i alle helseforetak
 @fa[arrow-right]
