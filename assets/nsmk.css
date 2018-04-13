@@ -8,12 +8,13 @@ div {
 ul {
  font-size: 0.5em;
 }
-
-/*
-.reveal .slides {
-    text-align: left;
-}
 */
+
+.reveal .slides {
+    border-collapse: collapse;
+    width: 100%;
+}
+
 
 .fa-rhf { color : #006491;}
 
