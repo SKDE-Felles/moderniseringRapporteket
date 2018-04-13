@@ -21,13 +21,15 @@ div {
   border-bottom-style: none;
 }
 
+/*
 .reveal table th {
   background-color: #c2d0dd;
   color: white;
 }
+*/
 
 .reveal table tbody tr:nth-child(odd) {
-  background-color: #f2f2f2;
+  background-color: white;
 }
 
 
