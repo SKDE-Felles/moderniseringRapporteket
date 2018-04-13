@@ -1,4 +1,7 @@
-body {background-color: #d9eeee;}
+body {
+  background-color: #d9eeee;
+  background: radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
+}
 
 div {
     font-size:small;
