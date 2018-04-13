@@ -82,10 +82,10 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 |:---|:---|
 |2009|Prototype Jasper Report Server CE og R|
 |2011|Jasper Report Server Pro|
-|2015|Registre som R-pakker og delt kode på GitHub|
+|2015|Registre som R-pakker, kode på GitHub|
 |2015|Utredning og vedtak om flytting til NHN|
 |2016|De første OQR-registre flyttes til NHN|
-|2017|Redegjøresler for risiko ved flytting av Rapporteket|
+|2017|Høy risiko ved flytting av Rapporteket|
 
 +++
 
