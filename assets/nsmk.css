@@ -4,11 +4,11 @@ div {
     font-size:small;
 }
 
-/*
-ul {
- font-size: 0.5em;
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  color: #006491;
 }
-*/
 
 .reveal table {
   border-collapse: collapse;
@@ -22,11 +22,11 @@ ul {
 }
 
 .reveal table th {
-  background-color: #006491;
+  background-color: #c2d0dd;
   color: white;
 }
 
-.reveal table tbody tr:nth-child(even) {
+.reveal table tbody tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
 
