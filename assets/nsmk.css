@@ -15,11 +15,11 @@ ul {
     width: 100%;
 }
 
-/*
-.revela tr {
-  tr: nth-child(even) {background-color: #f2f2f2;}
+
+.reveal table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
 }
-*/
+
 
 .fa-rhf { color : #006491;}
 
