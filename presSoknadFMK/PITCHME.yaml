@@ -1,5 +1,5 @@
 #background-size : auto 50%
 #background-color : #d9eeee;
-logo : assets/logo_nsmk.png
+logo : assets/logo_nsmk_shadow.png
 theme-override : assets/nsmk.css
 #highlight : mono-blue
