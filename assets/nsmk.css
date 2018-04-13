@@ -21,6 +21,11 @@ ul {
   border-bottom-style: none;
 }
 
+.reveal table th {
+  background-color: #d9eeee;
+  color: white;
+}
+
 .reveal table tbody tr:nth-child(even) {
   background-color: #f2f2f2;
 }
