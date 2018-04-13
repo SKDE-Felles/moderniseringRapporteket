@@ -111,8 +111,8 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 +++
 
 ### Aktivitet finansiert av FMK
-- Design og dokumentasjon
-- Reise og hospitering KRG
+- Teknisk design og dokumentasjon
+- Reise og hospitering KRG HNIKT
 - Lisens Shiny Server Pro i etableringsfasen
 - Intallasjon og konfigurasjon
 - Testing
@@ -122,7 +122,7 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 
 ### Egenfinansiert aktivitet
 - Migrering rapporter fra Jasper til Shiny
-- Migrering regisre fra R til R-Shiny
+- Migrering registre fra R til R-Shiny
 - GUI
 - Brukerhåndtering i Shiny
 - Prosjektledelse
