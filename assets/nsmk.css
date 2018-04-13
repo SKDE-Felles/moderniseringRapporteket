@@ -1,6 +1,6 @@
 body {
   /*background-color: #d9eeee;*/
-  background: moz-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
+  background: -moz-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
 }
 
 div {
@@ -8,7 +8,7 @@ div {
 }
 
 .reveal body {
-  background: moz-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
+  background: -moz-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
 }
 
 .reveal h1,
