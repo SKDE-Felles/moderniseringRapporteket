@@ -60,9 +60,7 @@ _Are Edvardsen_
 - Enklere for statistikere å etablere og vedlikehold innhold
 - Større fleksibilitet i hva som kan lages av innhold
 - Modernisering av teknologi og metodikk gir resultattjenesten forelenget levetid
-
 <br>
-
 @fa[trophy fa-3x fa-rhf]
 
 ---
