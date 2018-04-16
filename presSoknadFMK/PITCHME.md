@@ -56,10 +56,10 @@ _Are Edvardsen_
 
 ### Gevinster
 - <span style="font-size:0.9em;">Enklere teknisk drift (oppgradering, konfigurasjon, integrasjon)</span>
-- Flyttbar til annen driftsleverandør og bruk av skytjenester
-- Enklere for statistikere å etablere og vedlikehold innhold
-- Større fleksibilitet i hva som kan lages av innhold
-- Modernisering av teknologi og metodikk gir resultattjenesten forelenget levetid
+- <span style="font-size:0.9em;">Flyttbar til annen driftsleverandør og bruk av skytjenester</span>
+- <span style="font-size:0.9em;">Enklere for statistikere å etablere og vedlikehold innhold</span>
+- <span style="font-size:0.9em;">Større fleksibilitet i hva som kan lages av innhold</span>
+- <span style="font-size:0.9em;">Modernisering av teknologi og metodikk gir resultattjenesten forelenget levetid</span>
 
 <br>
 @fa[trophy fa-3x fa-rhf]
