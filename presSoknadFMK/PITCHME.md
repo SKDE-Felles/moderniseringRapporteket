@@ -55,7 +55,7 @@ _Are Edvardsen_
 +++
 
 ### Gevinster
-<span style="font-size:0.8em;">- Enklere teknisk drift (oppgradering, konfigurasjon, integrasjon)</span>
+- <span style="font-size:0.9em;">Enklere teknisk drift (oppgradering, konfigurasjon, integrasjon)</span>
 - Flyttbar til annen driftsleverandør og bruk av skytjenester
 - Enklere for statistikere å etablere og vedlikehold innhold
 - Større fleksibilitet i hva som kan lages av innhold
