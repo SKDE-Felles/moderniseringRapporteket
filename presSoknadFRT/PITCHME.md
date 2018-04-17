@@ -119,6 +119,11 @@ _Are Edvardsen_
 
 ---
 
+@title[Bakside]
+
+@fa[coffee fa-5x fa-rhf]
+
+---
 
 @title[Kontekst]
 ## Historikk og framtid
