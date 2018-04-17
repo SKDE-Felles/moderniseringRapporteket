@@ -117,7 +117,7 @@ _Are Edvardsen_
 - Prosjektet er formelt sett ikke igang og referansegruppe er derfor ikke etablert
 - Forespørsel om mulig deltagelse er gjort og samtlige helseregioner, Kreftregisteret og Norsk Helsenett vil være representert
 
-
+---
 
 
 @title[Kontekst]
