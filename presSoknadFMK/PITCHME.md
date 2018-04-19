@@ -12,36 +12,45 @@ _Are Edvardsen_
 
  
 ## Hvor i løypa?
-    Et som viser hvor prosjektet er i forhold til fasene i prosjektveiviseren:  konsept, planlegge, gjennomføre, avslutte, realisere (ta i bruk) – gjerne med tidsangivelser
-    
+
+<!--
+Et som viser hvor prosjektet er i forhold til fasene i prosjektveiviseren:  konsept, planlegge, gjennomføre, avslutte, realisere (ta i bruk) – gjerne med tidsangivelser
+-->    
     
 ## Prosjektet og flytting til NHN    
-    Et som viser hva som er avtalt/forpliktet omkring flytting av Rapporteket til NHN, og hva som vil være de kostnadsmessige konsekvensene i forbindelse med en flytting (les: vil det være behov for ny finansiering som ikke allerede er besluttet)
-    
+<!--
+Et som viser hva som er avtalt/forpliktet omkring flytting av Rapporteket til NHN, og hva som vil være de kostnadsmessige konsekvensene i forbindelse med en flytting (les: vil det være behov for ny finansiering som ikke allerede er besluttet)
+-->
     
 ## Endringer i driftskostnader etter flytting    
-    Et som viser eventuell endring i driftskostnader etter at modernisering og flytting er gjennomført
-    
+<!--
+Et som viser eventuell endring i driftskostnader etter at modernisering og flytting er gjennomført
+--> 
     
 ## Dataleverasne til Rapporteket    
-    Et som viser til planlagt aktivitet om å utrede forutsetningene for at MRS-registre skal kunne bruke Rapporteket
-    
+<!--
+Et som viser til planlagt aktivitet om å utrede forutsetningene for at MRS-registre skal kunne bruke Rapporteket
+--> 
     
 ## Status risiko for gjennomføring og realisering
-    Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
-    
+<!--
+Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
+-->
     
 ## Hva innebærer endringene for registrenes bruk av Rapporteket    
-    Et som viser «hva blir endringen» i forhold til registrenes bruk av Rapporteket (det vil bli enklere å utvikle rapporter…?)
-    
+<!--
+Et som viser «hva blir endringen» i forhold til registrenes bruk av Rapporteket (det vil bli enklere å utvikle rapporter…?)
+-->    
     
 ## Forankring
 - FMK
 - IRS
 - FRT
-    Et som viser forankringen av planene i Fagrådet for resultattjenester
+<!--
+Et som viser forankringen av planene i Fagrådet for resultattjenester
+-->
 
-
+<!-- This is the initial pres
 @title[Konseptfasen]
 ## Konsept
 - Rapporteket konseptuelt uendret siden etablering
@@ -173,3 +182,5 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 @title[Bakside]
 
 @fa[coffee fa-5x fa-rhf]
+
+-->
