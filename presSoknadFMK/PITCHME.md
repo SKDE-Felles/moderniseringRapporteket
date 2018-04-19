@@ -9,7 +9,7 @@ _Are Edvardsen_
 ---
 
 ## Hvor i løypa?
-
+![Difi prosjektveiviser](assets/difipv.png)
 <!--
 Et som viser hvor prosjektet er i forhold til fasene i prosjektveiviseren:  konsept, planlegge, gjennomføre, avslutte, realisere (ta i bruk) – gjerne med tidsangivelser
 -->    
