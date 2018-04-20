@@ -56,11 +56,15 @@ Et som viser eventuell endring i driftskostnader etter at modernisering og flytt
 
 ---
 
-## Dataleveranse til Rapporteket
+## Dataleveranse til Rapporteket: forutsetniger
 - Alle data(formater) som [kan importeres i R](https://cran.r-project.org/doc/manuals/r-release/R-data.html) kan også benyttes av Rapporteket
 - Dette gjelder både før og ev etter en modernisering
 - Dataformat må være *formålstjenelig* (_e.g._ kroniske tilstander)
 - Informasjon må være korrekt (både verdier og metadata)
+
+---
+
+## Dataleveranse til Rapporteket: tiltak
 
 > Spesifikasjon for å oppnå korrekte og formålstjenelige formater og innhold når data leveres til resulattjenester er under utarbeidelse av statistikernettverket i servicemiljøet
 
