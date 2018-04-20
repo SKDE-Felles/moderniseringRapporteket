@@ -66,7 +66,9 @@ Et som viser eventuell endring i driftskostnader etter at modernisering og flytt
 
 ## Fungerende dataleveranse: tiltak
 
-> Spesifikasjon for å oppnå korrekte og formålstjenelige formater og innhold når data leveres til resulattjenester er under utarbeidelse av statistikernettverket i servicemiljøet
+- Spesifikasjon for å oppnå korrekte og formålstjenelige formater og innhold når data leveres til resulattjenester er under utarbeidelse av statistikernettverket i servicemiljøet
+
+- FMK vertskap for koordinering mlm statistikere og tekniske leverandører
 
 Note:
 Et som viser til planlagt aktivitet om å utrede forutsetningene for at MRS-registre skal kunne bruke Rapporteket
@@ -100,7 +102,7 @@ Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
 
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
-|5|<s>Shiny Server er ikke egnet teknologi på Rapporteket</s>|<s><span style="color:yellow">3</span></s>|<s>Avslutte prosjektet og ev finne annen teknologi</s>|
+|5|<s>Shiny Server er ikke egnet teknologi på Rapporteket</s>|<s><span style="color:#ffcc00">3</span></s>|<s>Avslutte prosjektet og ev finne annen teknologi</s>|
 |6|Statistikere kan ikke filtre data ut fra brukerhåndtering i Shiny|<span style="color:yellow">3</span>|Øke R-kompetanse|
 
 ---
