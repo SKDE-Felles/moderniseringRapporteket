@@ -10,9 +10,10 @@ _Are Edvardsen_
 
 ## Hvor i løypa?
 ![Difi prosjektveiviser](assets/difipv.png)
-<!--
+
+Note:
 Et som viser hvor prosjektet er i forhold til fasene i prosjektveiviseren:  konsept, planlegge, gjennomføre, avslutte, realisere (ta i bruk) – gjerne med tidsangivelser
--->    
+  
 ---
     
 ## Flytting til NHN (1/2)
@@ -50,22 +51,30 @@ Et som viser hva som er avtalt/forpliktet omkring flytting av Rapporteket til NH
 
 > Pt umulig å angi nøyaktig pris. Vedtatt kostnadsmodell tar høyde for kr 50.000 per register og år
 
-<!--
+Note:
 Et som viser eventuell endring i driftskostnader etter at modernisering og flytting er gjennomført
---> 
+
 ---
 
 ## Dataleveranse til Rapporteket
-<!--
+- Alle data(formater) som [kan importeres i R](https://cran.r-project.org/doc/manuals/r-release/R-data.html) kan også benyttes av Rapporteket
+- Dette gjelder både før og ev etter en modernisering
+- Dataformat må være *formålstjenelig* (_e.g._ kroniske tilstander)
+- Informasjon må være korrekt (både verdier og metadata)
+
+> Spesifikasjon for å oppnå korrekte og formålstjenelige formater og innhold når data leveres til resulattjenester er under utarbeidelse av statistikernettverket i servicemiljøet
+
+Note:
 Et som viser til planlagt aktivitet om å utrede forutsetningene for at MRS-registre skal kunne bruke Rapporteket
--->
 
 ---
     
 ## Status risiko for gjennomføring og realisering
-<!--
+
+
+Note:
 Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
--->
+
 
 ---
     
