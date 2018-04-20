@@ -78,7 +78,7 @@ Et som viser til planlagt aktivitet om å utrede forutsetningene for at MRS-regi
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
 |1|Mangelfull finansiering av prosjektet|6|Avvente prosjektstart til finansiering er sikret|
-|2|Statistikere har ikke kapasitet til migrering av rapporter fra Jasper til Shiny|6|Øke kapasitet eller endre prioritering. Forlenge lisens for Jasper Server i ett år (ut 2019)|
+|2|<s>Statistikere har ikke kapasitet til migrering av rapporter fra Jasper til Shiny</s>|<s>6</s>|<s>Øke kapasitet eller endre prioritering. Forlenge lisens for Jasper Server i ett år (ut 2019)</s>|
 
 Note:
 Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
@@ -100,8 +100,8 @@ Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
 
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
-|5|<s>Shiny Server er ikke egnet teknologi på Rapporteket</s>|3|Avslutte prosjektet og ev finne annen teknologi og starte et nytt prosjekt|
-|6|Statistikere er ikke i stand til å håndtere datafiltrering (i egen kode for enkeltregistre) ut fra brukerhåndtering i Shiny|3|Øke R-kompetanse|
+|5|<s>Shiny Server er ikke egnet teknologi på Rapporteket</s>|<s>3</s>|<s>Avslutte prosjektet og ev finne annen teknologi</s>|
+|6|Statistikere kan ikke filtre data ut fra brukerhåndtering i Shiny|3|Øke R-kompetanse|
 
 ---
 
@@ -109,8 +109,8 @@ Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
 
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
-|7|Statistikere har ikke kapasitet til å lære Shiny|3|Øke kapasitet eller endre prioritering|
-|8|Servicemiljøet er ikke i stand til å etablere og vedlikeholde brukergrensesnitt i Shiny|2	Dekkes gjennom kjøp av eksterne tjenester og/eller HNIKT|
+|7|<s>Statistikere har ikke kapasitet til å lære Shiny</s>|<S>3</s>|<s>Øke kapasitet eller endre prioritering</s>|
+|8|Servicemiljøet er ikke i stand til å etablere og vedlikeholde brukergrensesnitt i Shiny|2|Dekkes gjennom kjøp av eksterne tjenester og/eller HNIKT|
 
 ---
 
