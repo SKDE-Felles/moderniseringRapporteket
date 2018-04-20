@@ -88,7 +88,7 @@ Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
 ## Status risiko (2/5)
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
-|3|Statistikere har ikke kapasitet til migrering av R-rapporter til Shiny|<span style="color:red">6</span>|Øke kapasitet eller endre prioritering|
+|3|<s>Statistikere har ikke kapasitet til migrering av R-rapporter til Shiny</s>|<s><span style="color:red">6</span></s>|<s>Øke kapasitet eller endre prioritering</s>|
 |4|Manglende finansiering av "doble" lisenskostnader i overgangsfasen|<span style="color:yellow">4</span>|Avvente prosjektstart til finansiering er sikret|
 
 Note:
