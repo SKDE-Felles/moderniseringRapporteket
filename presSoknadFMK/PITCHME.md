@@ -23,6 +23,9 @@ Et som viser hvor prosjektet er i forhold til fasene i prosjektveiviseren:  kons
 - [FMK rapport om kostnader til AD-arbeidsgruppa mai 2016](assets/FMKkostnaderTilADarbgr.pdf)
 - IRS orientering om diskrepans november 2016 [sak 49-16](https://www.kvalitetsregistre.no/sites/default/files/2016_11_30_referat_irs_godkjent.pdf)
 
+Note:
+Et som viser hva som er avtalt/forpliktet omkring flytting av Rapporteket til NHN, og hva som vil være de kostnadsmessige konsekvensene i forbindelse med en flytting (les: vil det være behov for ny finansiering som ikke allerede er besluttet)
+
 ---
 
 ## Flytting til NHN (2/2)
@@ -33,9 +36,9 @@ Et som viser hvor prosjektet er i forhold til fasene i prosjektveiviseren:  kons
 - FMK orientert om risiko ved flytting og behov for modernisering oktober 2017 [sak 64/17](assets/RN-FlyttingavRapporteketfraHNIKTtilNHN-021017-1314.pdf)
 - IRS orientert om risiko ved flytting desember 2017 [sak 58-17](https://www.kvalitetsregistre.no/sites/default/files/2017_12_14_referat_irs_godkjent.pdf)
 
-<!--
+Note:
 Et som viser hva som er avtalt/forpliktet omkring flytting av Rapporteket til NHN, og hva som vil være de kostnadsmessige konsekvensene i forbindelse med en flytting (les: vil det være behov for ny finansiering som ikke allerede er besluttet)
--->
+
 ---
 
 ## Driftskostnader etter flytting
