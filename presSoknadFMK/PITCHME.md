@@ -89,7 +89,7 @@ Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
 |3|Statistikere har ikke kapasitet til migrering av R-rapporter til Shiny|6|Øke kapasitet eller endre prioritering|
-|4|Manglende finansiering av "doble" lisenskostnader i overgangsfasen|2|2|4|Avvente prosjektstart til finansiering er sikret|
+|4|Manglende finansiering av "doble" lisenskostnader i overgangsfasen|4|Avvente prosjektstart til finansiering er sikret|
 
 Note:
 Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
@@ -100,8 +100,8 @@ Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
 
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
-|5|<s>Shiny Server er ikke egnet teknologi på Rapporteket</s>|1|3|3|Avslutte prosjektet og ev finne annen teknologi og starte et nytt prosjekt|
-|6|Statistikere er ikke i stand til å håndtere datafiltrering (i egen kode for enkeltregistre) ut fra brukerhåndtering i Shiny|1|3|3|Øke R-kompetanse|
+|5|<s>Shiny Server er ikke egnet teknologi på Rapporteket</s>|3|Avslutte prosjektet og ev finne annen teknologi og starte et nytt prosjekt|
+|6|Statistikere er ikke i stand til å håndtere datafiltrering (i egen kode for enkeltregistre) ut fra brukerhåndtering i Shiny|3|Øke R-kompetanse|
 
 ---
 
@@ -109,15 +109,15 @@ Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
 
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
-|7|Statistikere har ikke kapasitet til å lære Shiny|1|3|3|Øke kapasitet eller endre prioritering|
-|8|Servicemiljøet er ikke i stand til å etablere og vedlikeholde brukergrensesnitt i Shiny|1|2|2	Dekkes gjennom kjøp av eksterne tjenester og/eller HNIKT|
+|7|Statistikere har ikke kapasitet til å lære Shiny|3|Øke kapasitet eller endre prioritering|
+|8|Servicemiljøet er ikke i stand til å etablere og vedlikeholde brukergrensesnitt i Shiny|2	Dekkes gjennom kjøp av eksterne tjenester og/eller HNIKT|
 
 ---
 
 ## Status risiko (5/5)
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
-|9|Statistikere er ikke i stand til å håndtere "registernavigasjon" ut fra brukerhåndtering i Shiny|2|1|2|Øke R-kompetanse|
+|9|Statistikere er ikke i stand til å håndtere "registernavigasjon" ut fra brukerhåndtering i Shiny|2|Øke R-kompetanse|
 
 Note:
 Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
