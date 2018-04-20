@@ -15,7 +15,7 @@ Et som viser hvor prosjektet er i forhold til fasene i prosjektveiviseren:  kons
 -->    
 ---
     
-## Prosjektet og flytting til NHN
+## Flytting til NHN (1/2)
 
 - [NHN utredning av flytting april 2015](assets/NHN_utredning.pdf)
 - [IRS behandling av NHN utredning sak 14-15](https://www.kvalitetsregistre.no/sites/default/files/mote_150610_saksframlegg.pdf)
@@ -25,26 +25,34 @@ Et som viser hvor prosjektet er i forhold til fasene i prosjektveiviseren:  kons
 
 ---
 
-## Prosjektet og flytting til NHN
+## Flytting til NHN (2/2)
 
 - [FMK revidert rapport om kostnader 10. feb 2017](assets/FMKkostnader.pdf)
 - [IRS referatsak 14-17 om revidert FMK-rapport](https://www.kvalitetsregistre.no/sites/default/files/2017_03_06_referat_irs_godkjent.pdf)
 - [IRS orientert av FMK om status flytting Rapporteket sak 43-17](https://www.kvalitetsregistre.no/sites/default/files/2017_09_17_referat_irs_godkjent.pdf)
-- [FMK orienter om risiko ved flytting og behov for modernisering sak 64/17 oktober 2017](assets/RN-FlyttingavRapporteketfraHNIKTtilNHN-021017-1314.pdf)
+- [FMK orientert om risiko ved flytting og behov for modernisering sak 64/17 oktober 2017](assets/RN-FlyttingavRapporteketfraHNIKTtilNHN-021017-1314.pdf)
 - [IRS orientert om risiko ved flytting sak 58-17](https://www.kvalitetsregistre.no/sites/default/files/2017_12_14_referat_irs_godkjent.pdf)
-> 
+
 <!--
 Et som viser hva som er avtalt/forpliktet omkring flytting av Rapporteket til NHN, og hva som vil være de kostnadsmessige konsekvensene i forbindelse med en flytting (les: vil det være behov for ny finansiering som ikke allerede er besluttet)
 -->
 ---
 
-## Endringer i driftskostnader etter flytting    
+## Driftskostnader etter flytting
+
+- Bytte av driftsleverandør vil gi endring i pris
+- Enhetspris anslått i [underlaget til kostnadsmodell](assets/FMKkostnaderTilADarbgr.pdf)
+- Prisen er styrt av valgt "oppsett"
+- Endelig "oppsett"" er et resultat av prosjektet
+
+> Pt umulig å angi pris. Vedtatt kostnadsmodell tar høyde for kr 50.000 per register og år
+
 <!--
 Et som viser eventuell endring i driftskostnader etter at modernisering og flytting er gjennomført
 --> 
 ---
 
-## Dataleverasne til Rapporteket    
+## Dataleveranse til Rapporteket
 <!--
 Et som viser til planlagt aktivitet om å utrede forutsetningene for at MRS-registre skal kunne bruke Rapporteket
 -->
