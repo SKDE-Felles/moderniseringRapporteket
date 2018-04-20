@@ -100,8 +100,8 @@ Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
 
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
-|5|<s>Shiny Server er ikke egnet teknologi på Rapporteket</s>|<s>3</s>|<s>Avslutte prosjektet og ev finne annen teknologi</s>|
-|6|Statistikere kan ikke filtre data ut fra brukerhåndtering i Shiny|3|Øke R-kompetanse|
+|5|<s>Shiny Server er ikke egnet teknologi på Rapporteket</s>|<s><span style="color:yellow">3</span></s>|<s>Avslutte prosjektet og ev finne annen teknologi</s>|
+|6|Statistikere kan ikke filtre data ut fra brukerhåndtering i Shiny|<span style="color:yellow">3</span>|Øke R-kompetanse|
 
 ---
 
@@ -109,15 +109,15 @@ Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
 
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
-|7|<s>Statistikere har ikke kapasitet til å lære Shiny</s>|<S>3</s>|<s>Øke kapasitet eller endre prioritering</s>|
-|8|Servicemiljøet er ikke i stand til å etablere og vedlikeholde brukergrensesnitt i Shiny|2|Dekkes gjennom kjøp av eksterne tjenester og/eller HNIKT|
+|7|<s>Statistikere har ikke kapasitet til å lære Shiny</s>|<s><span style="color:yellow">3</span></s>|<s>Øke kapasitet eller endre prioritering</s>|
+|8|Servicemiljøet er ikke i stand til å etablere og vedlikeholde brukergrensesnitt i Shiny|<span style="color:lime">2</span>|Dekkes gjennom kjøp av eksterne tjenester og/eller HNIKT|
 
 ---
 
 ## Status risiko (5/5)
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
-|9|Statistikere er ikke i stand til å håndtere "registernavigasjon" ut fra brukerhåndtering i Shiny|2|Øke R-kompetanse|
+|9|Statistikere er ikke i stand til å håndtere "registernavigasjon" ut fra brukerhåndtering i Shiny|<span style="color:lime">2</span>|Øke R-kompetanse|
 
 Note:
 Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
