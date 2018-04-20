@@ -15,7 +15,11 @@ Et som viser hvor prosjektet er i forhold til fasene i prosjektveiviseren:  kons
 -->    
 ---
     
-## Prosjektet og flytting til NHN    
+## Prosjektet og flytting til NHN
+- [IRS behandling av NHN utredning sak 14-15](https://www.kvalitetsregistre.no/sites/default/files/mote_150610_saksframlegg.pdf)
+- [IRS behandling av flyttekotnader sak 33-15](assets/Mote_151125_saksframleggx.pdf)
+- [IRS behandling av kostnader IKT-drift sak]()
+> 
 <!--
 Et som viser hva som er avtalt/forpliktet omkring flytting av Rapporteket til NHN, og hva som vil være de kostnadsmessige konsekvensene i forbindelse med en flytting (les: vil det være behov for ny finansiering som ikke allerede er besluttet)
 -->
