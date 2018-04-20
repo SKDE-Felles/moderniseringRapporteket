@@ -91,7 +91,7 @@ Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
 |3|<s>Statistikere har ikke kapasitet til migrering av R-rapporter til Shiny</s>|<s><span style="color:red">6</span></s>|<s>Øke kapasitet eller endre prioritering</s>|
-|4|Manglende finansiering av "doble" lisenskostnader i overgangsfasen|<span style="color:yellow">4</span>|Avvente prosjektstart til finansiering er sikret|
+|4|Manglende finansiering av "doble" lisenskostnader i overgangsfasen|<span style="color:#ffcc00">4</span>|Avvente prosjektstart til finansiering er sikret|
 
 Note:
 Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
@@ -103,7 +103,7 @@ Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
 |5|<s>Shiny Server er ikke egnet teknologi på Rapporteket</s>|<s><span style="color:#ffcc00">3</span></s>|<s>Avslutte prosjektet og ev finne annen teknologi</s>|
-|6|Statistikere kan ikke filtre data ut fra brukerhåndtering i Shiny|<span style="color:yellow">3</span>|Øke R-kompetanse|
+|6|Statistikere kan ikke filtre data ut fra brukerhåndtering i Shiny|<span style="color:#ffcc00">3</span>|Øke R-kompetanse|
 
 ---
 
@@ -111,7 +111,7 @@ Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
 
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
-|7|<s>Statistikere har ikke kapasitet til å lære Shiny</s>|<s><span style="color:yellow">3</span></s>|<s>Øke kapasitet eller endre prioritering</s>|
+|7|<s>Statistikere har ikke kapasitet til å lære Shiny</s>|<s><span style="color:#ffcc00">3</span></s>|<s>Øke kapasitet eller endre prioritering</s>|
 |8|Servicemiljøet er ikke i stand til å etablere og vedlikeholde brukergrensesnitt i Shiny|<span style="color:lime">2</span>|Dekkes gjennom kjøp av eksterne tjenester og/eller HNIKT|
 
 ---
@@ -128,20 +128,37 @@ Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
 ---
     
 ## Hva innebærer endringene for registrenes bruk av Rapporteket    
-<!--
+
+- Ingen rapporter lages av IKT-leverandør
+- Ingen betaling for utvikling av innhold
+- Alt innhold utvikles av egne statistikere og/eller servicemiljøet
+- Utvikling av innhold mer rendyrket *R*
+- Nytt brukergrensesnitt
+- Rikere presentasjon og dynamikk 
+
+Note:
 Et som viser «hva blir endringen» i forhold til registrenes bruk av Rapporteket (det vil bli enklere å utvikle rapporter…?)
--->    
+  
 ---
 
 ## Forankring
 - FMK
 - IRS
 - FRT
-<!--
-Et som viser forankringen av planene i Fagrådet for resultattjenester
--->
 
-+++
+Note:
+Et som viser forankringen av planene i Fagrådet for resultattjenester
+
+
+---
+
+@title[Bakside]
+
+@fa[coffee fa-5x fa-rhf]
+
+> Resterende slides er opprinnelig presentasjon og er ikke tenkt brukt
+
+---
 
 <!-- This is the initial pres -->
 
