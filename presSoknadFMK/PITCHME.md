@@ -74,13 +74,14 @@ Et som viser til planlagt aktivitet om å utrede forutsetningene for at MRS-regi
 ---
     
 ## Status risiko for gjennomføring og realisering
+
 |Id|Sårbarhet|Sannsynlighet|Konsekvens|Risiko|Mulige tiltak|
-|---:||||||
+|---:|:---|---:|---:|---:|:---|
 |1|Mangelfull finansiering av prosjektet|2|3|6|Avvente prosjektstart til finansiering er sikret|
 |2|Statistikere har ikke kapasitet til migrering av rapporter fra Jasper til Shiny|2|3|6|Øke kapasitet eller endre prioritering. Forlenge lisens for Jasper Server i ett år (ut 2019)|
 |3|Statistikere har ikke kapasitet til migrering av R-rapporter til Shiny|2|3|6|Øke kapasitet eller endre prioritering|
 |4|Manglende finansiering av "doble" lisenskostnader i overgangsfasen|2|2|4|Avvente prosjektstart til finansiering er sikret|
-|5|Shiny Server er ikke egnet teknologi på Rapporteket|1|3|3|Avslutte prosjektet og ev finne annen teknologi og starte et nytt prosjekt|
+|5|<s>Shiny Server er ikke egnet teknologi på Rapporteket</s>|1|3|3|Avslutte prosjektet og ev finne annen teknologi og starte et nytt prosjekt|
 |6|Statistikere er ikke i stand til å håndtere datafiltrering (i egen kode for enkeltregistre) ut fra brukerhåndtering i Shiny|1|3|3|Øke R-kompetanse|
 |7|Statistikere har ikke kapasitet til å lære Shiny|1|3|3|Øke kapasitet eller endre prioritering|
 |8|Servicemiljøet er ikke i stand til å etablere og vedlikeholde brukergrensesnitt i Shiny|1|2|2	Dekkes gjennom kjøp av eksterne tjenester og/eller HNIKT|
