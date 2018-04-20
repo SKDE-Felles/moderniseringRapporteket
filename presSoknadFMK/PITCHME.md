@@ -77,7 +77,7 @@ Et som viser til planlagt aktivitet om å utrede forutsetningene for at MRS-regi
 
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
-|1|Mangelfull finansiering av prosjektet|6|Avvente prosjektstart til finansiering er sikret|
+|1|Mangelfull finansiering av prosjektet|<span style="color:red">6</span>|Avvente prosjektstart til finansiering er sikret|
 |2|<s>Statistikere har ikke kapasitet til migrering av rapporter fra Jasper til Shiny</s>|<s><span style="color:red">6</span></s>|<s>Øke kapasitet eller endre prioritering. Forlenge lisens for Jasper Server i ett år (ut 2019)</s>|
 
 Note:
@@ -88,8 +88,8 @@ Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
 ## Status risiko (2/5)
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
-|3|Statistikere har ikke kapasitet til migrering av R-rapporter til Shiny|6|Øke kapasitet eller endre prioritering|
-|4|Manglende finansiering av "doble" lisenskostnader i overgangsfasen|4|Avvente prosjektstart til finansiering er sikret|
+|3|Statistikere har ikke kapasitet til migrering av R-rapporter til Shiny|<span style="color:red">6</span>|Øke kapasitet eller endre prioritering|
+|4|Manglende finansiering av "doble" lisenskostnader i overgangsfasen|<span style="color:yellow">4</span>|Avvente prosjektstart til finansiering er sikret|
 
 Note:
 Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
