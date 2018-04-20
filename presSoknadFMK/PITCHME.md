@@ -78,7 +78,7 @@ Et som viser til planlagt aktivitet om å utrede forutsetningene for at MRS-regi
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
 |1|Mangelfull finansiering av prosjektet|6|Avvente prosjektstart til finansiering er sikret|
-|2|<s>Statistikere har ikke kapasitet til migrering av rapporter fra Jasper til Shiny</s>|<s>6</s>|<s>Øke kapasitet eller endre prioritering. Forlenge lisens for Jasper Server i ett år (ut 2019)</s>|
+|2|<s>Statistikere har ikke kapasitet til migrering av rapporter fra Jasper til Shiny</s>|<s><span style="color:red">6</span></s>|<s>Øke kapasitet eller endre prioritering. Forlenge lisens for Jasper Server i ett år (ut 2019)</s>|
 
 Note:
 Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
