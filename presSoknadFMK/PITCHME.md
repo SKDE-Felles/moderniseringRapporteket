@@ -127,12 +127,12 @@ Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
 
 ---
     
-## Hva innebærer endringene for registrenes bruk av Rapporteket    
+## Effekter av endringer 
 
 - Ingen rapporter lages av IKT-leverandør
 - Ingen betaling for utvikling av innhold
 - Alt innhold utvikles av egne statistikere og/eller servicemiljøet
-- Utvikling av innhold mer rendyrket *R*
+- Utvikling av innhold mer rendyrket __R__
 - Nytt brukergrensesnitt
 - Rikere presentasjon og dynamikk 
 
@@ -142,9 +142,10 @@ Et som viser «hva blir endringen» i forhold til registrenes bruk av Rapporteke
 ---
 
 ## Forankring
-- FMK
-- IRS
-- FRT
+Plan presentert for Fagråd resultattjenester 17. april 2018 med følgende innspill:
+- etablér nasjonal styringsgruppe for prosjektet 
+- avhengighet til fungerende dataleveranser også for registre som ikke er på OpenQReg
+- MRS-R sensitiv legges på is og Rapporeket er (fortsatt) eneste tilgjengelige resultattjeneste på "microdata"
 
 Note:
 Et som viser forankringen av planene i Fagrådet for resultattjenester
