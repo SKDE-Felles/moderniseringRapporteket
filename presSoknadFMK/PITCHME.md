@@ -73,34 +73,50 @@ Et som viser til planlagt aktivitet om å utrede forutsetningene for at MRS-regi
 
 ---
     
-## Status risiko (1/3)
+## Status risiko (1/5)
 
 |Id|Sårbarhet|Risiko|Mulige tiltak|
 |---:|:---|---:|:---|
 |1|Mangelfull finansiering av prosjektet|6|Avvente prosjektstart til finansiering er sikret|
 |2|Statistikere har ikke kapasitet til migrering av rapporter fra Jasper til Shiny|6|Øke kapasitet eller endre prioritering. Forlenge lisens for Jasper Server i ett år (ut 2019)|
-|3|Statistikere har ikke kapasitet til migrering av R-rapporter til Shiny|6|Øke kapasitet eller endre prioritering|
 
 Note:
 Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
 
 ---
 
-## Status risiko (2/3)
-
+## Status risiko (2/5)
+|Id|Sårbarhet|Risiko|Mulige tiltak|
+|---:|:---|---:|:---|
+|3|Statistikere har ikke kapasitet til migrering av R-rapporter til Shiny|6|Øke kapasitet eller endre prioritering|
 |4|Manglende finansiering av "doble" lisenskostnader i overgangsfasen|2|2|4|Avvente prosjektstart til finansiering er sikret|
+
+Note:
+Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
+
+---
+
+## Status risiko (3/5)
+
+|Id|Sårbarhet|Risiko|Mulige tiltak|
+|---:|:---|---:|:---|
 |5|<s>Shiny Server er ikke egnet teknologi på Rapporteket</s>|1|3|3|Avslutte prosjektet og ev finne annen teknologi og starte et nytt prosjekt|
 |6|Statistikere er ikke i stand til å håndtere datafiltrering (i egen kode for enkeltregistre) ut fra brukerhåndtering i Shiny|1|3|3|Øke R-kompetanse|
 
-Note:
-Et som viser gjenværende usikkerhet/risiko for gjennomføring og realisering
+---
+
+## Status risiko (4/5)
+
+|Id|Sårbarhet|Risiko|Mulige tiltak|
+|---:|:---|---:|:---|
+|7|Statistikere har ikke kapasitet til å lære Shiny|1|3|3|Øke kapasitet eller endre prioritering|
+|8|Servicemiljøet er ikke i stand til å etablere og vedlikeholde brukergrensesnitt i Shiny|1|2|2	Dekkes gjennom kjøp av eksterne tjenester og/eller HNIKT|
 
 ---
 
-## Status risiko (1/3)
-
-|7|Statistikere har ikke kapasitet til å lære Shiny|1|3|3|Øke kapasitet eller endre prioritering|
-|8|Servicemiljøet er ikke i stand til å etablere og vedlikeholde brukergrensesnitt i Shiny|1|2|2	Dekkes gjennom kjøp av eksterne tjenester og/eller HNIKT|
+## Status risiko (5/5)
+|Id|Sårbarhet|Risiko|Mulige tiltak|
+|---:|:---|---:|:---|
 |9|Statistikere er ikke i stand til å håndtere "registernavigasjon" ut fra brukerhåndtering i Shiny|2|1|2|Øke R-kompetanse|
 
 Note:
