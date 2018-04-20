@@ -74,7 +74,8 @@ Et som viser forankringen av planene i Fagrådet for resultattjenester
 
 +++
 
-<!-- This is the initial pres
+<!-- This is the initial pres -->
+
 @title[Konseptfasen]
 ## Konsept
 - Rapporteket konseptuelt uendret siden etablering
@@ -206,5 +207,3 @@ Prosjektet _Modernisering av Rapporteket_ representerer et viktig bidrag for å 
 @title[Bakside]
 
 @fa[coffee fa-5x fa-rhf]
-
--->
