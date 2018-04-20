@@ -16,9 +16,22 @@ Et som viser hvor prosjektet er i forhold til fasene i prosjektveiviseren:  kons
 ---
     
 ## Prosjektet og flytting til NHN
+
+- [NHN utredning av flytting april 2015](assets/NHN_utredning.pdf)
 - [IRS behandling av NHN utredning sak 14-15](https://www.kvalitetsregistre.no/sites/default/files/mote_150610_saksframlegg.pdf)
 - [IRS behandling av flyttekotnader sak 33-15](assets/Mote_151125_saksframleggx.pdf)
-- [IRS behandling av kostnader IKT-drift sak]()
+- [FMK rapport om kostnader til AD-arbeidsgruppa mai 2016](assets/FMKkostnaderTilADarbgr.pdf)
+- [IRS orientering om diskrepans sak 49-16](https://www.kvalitetsregistre.no/sites/default/files/2016_11_30_referat_irs_godkjent.pdf)
+
+---
+
+## Prosjektet og flytting til NHN
+
+- [FMK revidert rapport om kostnader 10. feb 2017](assets/FMKkostnader.pdf)
+- [IRS referatsak 14-17 om revidert FMK-rapport](https://www.kvalitetsregistre.no/sites/default/files/2017_03_06_referat_irs_godkjent.pdf)
+- [IRS orientert av FMK om status flytting Rapporteket sak 43-17](https://www.kvalitetsregistre.no/sites/default/files/2017_09_17_referat_irs_godkjent.pdf)
+- [FMK orienter om risiko ved flytting og behov for modernisering sak 64/17 oktober 2017](assets/RN-FlyttingavRapporteketfraHNIKTtilNHN-021017-1314.pdf)
+- [IRS orientert om risiko ved flytting sak 58-17](https://www.kvalitetsregistre.no/sites/default/files/2017_12_14_referat_irs_godkjent.pdf)
 > 
 <!--
 Et som viser hva som er avtalt/forpliktet omkring flytting av Rapporteket til NHN, og hva som vil være de kostnadsmessige konsekvensene i forbindelse med en flytting (les: vil det være behov for ny finansiering som ikke allerede er besluttet)
