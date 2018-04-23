@@ -56,10 +56,10 @@ Et som viser eventuell endring i driftskostnader etter at modernisering og flytt
 
 ---
 
-## Fungerende dataleveranse: forutsetniger
+## Fungerende dataleveranse: forutsetninger
 - Alle data(formater) som [kan importeres i R](https://cran.r-project.org/doc/manuals/r-release/R-data.html) kan også benyttes av Rapporteket
 - Dette gjelder både før og ev etter en modernisering
-- Dataformat må være *formålstjenelig* (_e.g._ kroniske tilstander)
+- Dataformat må være *formålstjenlig* (_e.g._ kroniske tilstander)
 - Informasjon må være korrekt (både verdier og metadata)
 
 ---
