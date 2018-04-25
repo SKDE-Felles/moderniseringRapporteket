@@ -18,10 +18,10 @@ Et som viser hvor prosjektet er i forhold til fasene i prosjektveiviseren:  kons
     
 ## Flytting til NHN (1/2)
 
-- [NHN utredning av flytting april 2015](assets/NHN_utredning.pdf)
+- [NHN utredning av flytting april 2015](https://drive.google.com/file/d/1NzjvDvGswWXWelXpB7XUpkDowtTiQzhE/view?usp=sharing)
 - IRS behandling av NHN utredning mai 2015 [sak 14-15](https://www.kvalitetsregistre.no/sites/default/files/mote_150610_saksframlegg.pdf)
-- IRS behandling av flyttekostnader november 2015 [sak 33-15](assets/Mote_151125_saksframleggx.pdf)
-- [FMK rapport om kostnader til AD-arbeidsgruppa mai 2016](assets/FMKkostnaderTilADarbgr.pdf)
+- IRS behandling av flyttekostnader november 2015 [sak 33-15](https://drive.google.com/file/d/1K452um9EDx4-sIpMgoO9ZaufDvbLZ_u4/view?usp=sharing)
+- [FMK rapport om kostnader til AD-arbeidsgruppa mai 2016](https://drive.google.com/file/d/1atwCDuvsZHmV8Jix5KzGd4erDMPyezOK/view?usp=sharing)
 - IRS orientering om diskrepans november 2016 [sak 49-16](https://www.kvalitetsregistre.no/sites/default/files/2016_11_30_referat_irs_godkjent.pdf)
 
 Note:
@@ -31,10 +31,10 @@ Et som viser hva som er avtalt/forpliktet omkring flytting av Rapporteket til NH
 
 ## Flytting til NHN (2/2)
 
-- [FMK revidert rapport om kostnader februar 2017](assets/FMKkostnader.pdf)
+- [FMK revidert rapport om kostnader februar 2017](https://drive.google.com/file/d/1_aV0ntkJVWv5O7mJU-XmQN-KZC2dtg74/view?usp=sharing)
 - IRS orientert om revidert FMK-rapport mars 2017 [referatsak 14-17](https://www.kvalitetsregistre.no/sites/default/files/2017_03_06_referat_irs_godkjent.pdf)
 - IRS orientert av FMK om status flytting Rapporteket september 2017 [sak 43-17](https://www.kvalitetsregistre.no/sites/default/files/2017_09_17_referat_irs_godkjent.pdf)
-- FMK orientert om risiko ved flytting og behov for modernisering oktober 2017 [sak 64/17](assets/RN-FlyttingavRapporteketfraHNIKTtilNHN-021017-1314.pdf)
+- FMK orientert om risiko ved flytting og behov for modernisering oktober 2017 [sak 64/17](https://drive.google.com/file/d/1Baye1jU6IDVm1XAZYpYyuLa0Z4h9nnMu/view?usp=sharing)
 - IRS orientert om risiko ved flytting desember 2017 [sak 58-17](https://www.kvalitetsregistre.no/sites/default/files/2017_12_14_referat_irs_godkjent.pdf)
 
 Note:
